@@ -1,6 +1,51 @@
 # FlatKeyboardLayout
 
-## Qwickly2
+## QWERTY
+```
+ Q   W   E   R   T   Y   U   I   O   P   [   ]   \
+
+  A   S   D   F   G   H   J   K   L   ;   '   enter
+
+   Z   X   C   V   B    N   M   ,   .   /
+```
+
+## Step 1: Set N, O (displace J and ;)
+```
+ Q   W   E   R   T   Y   U   I  {;}  P   [   ]   \
+
+  A   S   D   F   G   H  (N)  K   L  [O]  '   enter
+
+   Z   X   C   V   B   {J}  M   ,   .   /
+```
+
+## Step 2: Set I, L
+```
+ Q   W   E   R   T   Y   U  [L] {;}  P   [   ]   \
+
+  A   S   D   F   G   H  (N)  K  [I] [O]  '   enter
+
+   Z   X   C   V   B   {J}  M   ,   .   /
+```
+
+## Step 3: Set D, E, K and R (displace J)
+```
+ Q   W  {J} [D]  T   Y   U  [L] {;}  P   [   ]   \
+
+  A   S  (E)  F   G   H  (N) <R> [I] [O]  '   enter
+
+   Z   X   C   V   B   [K]  M   ,   .   /
+```
+
+## Step 4: Set F: H, T, U (displace J)
+```
+ Q   W  <U> [D] {J}  Y  (H) [L] [;]  P   [   ]   \
+
+  A   S  (E) (T)  G  <F> (N) <R> [I] [O]  '   enter
+
+   Z   X   C   V   B   [K]  M   ,   .   /
+```
+
+## Qwickly2: Set B, J, P, Y, comma, colon
 
 ```
  Q   W  <U> [D] <P> <B> (H) [L] [Y] [,]  [   ]   \
