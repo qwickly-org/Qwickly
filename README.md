@@ -16,6 +16,13 @@
   A   S   D   F   G   H  (N)  K   L  [O]  '   enter
 
    Z   X   C   V   B   {J}  M   ,   .   /
+
+Legend
+    same as QWERTY
+( ) same finger as QWERTY
+[ ] same hand as QWERTY
+< > other hand than QWERTY
+{ } temporary key location
 ```
 
 ## Step 2: Set I, L
