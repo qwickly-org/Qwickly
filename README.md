@@ -27,7 +27,16 @@
    Z   X   C   V   B   {J}  M   ,   .   /
 ```
 
-## Step 3: Set D, E, K and R (displace J)
+## Step 3: Set K, R (displace J)
+```
+ Q   W   E  {J}  T   Y   U  [L] {;}  P   [   ]   \
+
+  A   S   D   F   G   H  (N) <R> [I] [O]  '   enter
+
+   Z   X   C   V   B   [K]  M   ,   .   /
+```
+
+## Step 4: Set D, E (displace J)
 ```
  Q   W  {J} [D]  T   Y   U  [L] {;}  P   [   ]   \
 
@@ -36,7 +45,7 @@
    Z   X   C   V   B   [K]  M   ,   .   /
 ```
 
-## Step 4: Set F, H, T, U (displace J)
+## Step 5: Set F, H, T, U (displace J)
 ```
  Q   W  <U> [D] {J}  Y  (H) [L] [;]  P   [   ]   \
 
