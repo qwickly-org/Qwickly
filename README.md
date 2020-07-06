@@ -36,7 +36,7 @@
    Z   X   C   V   B   [K]  M   ,   .   /
 ```
 
-## Step 4: Set F: H, T, U (displace J)
+## Step 4: Set F, H, T, U (displace J)
 ```
  Q   W  <U> [D] {J}  Y  (H) [L] [;]  P   [   ]   \
 
