@@ -9,66 +9,13 @@
    Z   X   C   V   B    N   M   ,   .   /
 ```
 
-## Step 1: Set N, O (displace J and ;)
+## Qwickly2
 ```
- Q   W   E   R   T   Y   U   I  {;}  P   [   ]   \
-
-  A   S   D   F   G   H  (N)  K   L  [O]  '   enter
-
-   Z   X   C   V   B   {J}  M   ,   .   /
-
-Legend
-    same as QWERTY
-( ) same finger as QWERTY
-[ ] same hand as QWERTY
-< > other hand than QWERTY
-{ } temporary key location
-```
-
-## Step 2: Set I, L
-```
- Q   W   E   R   T   Y   U  [L] {;}  P   [   ]   \
-
-  A   S   D   F   G   H  (N)  K  [I] [O]  '   enter
-
-   Z   X   C   V   B   {J}  M   ,   .   /
-```
-
-## Step 3: Set K, R (displace J)
-```
- Q   W   E  {J}  T   Y   U  [L] {;}  P   [   ]   \
-
-  A   S   D   F   G   H  (N) <R> [I] [O]  '   enter
-
-   Z   X   C   V   B   [K]  M   ,   .   /
-```
-
-## Step 4: Set D, E (displace J)
-```
- Q   W  {J} [D]  T   Y   U  [L] {;}  P   [   ]   \
-
-  A   S  (E)  F   G   H  (N) <R> [I] [O]  '   enter
-
-   Z   X   C   V   B   [K]  M   ,   .   /
-```
-
-## Step 5: Set F, H, T, U (displace J)
-```
- Q   W  <U> [D] {J}  Y  (H) [L] [;]  P   [   ]   \
+<K>  W  <U> [D] <P> [J] (H) [L] [Y] [,]  [   ]   \
 
   A   S  (E) (T)  G  <F> (N) <R> [I] [O]  '   enter
 
-   Z   X   C   V   B   [K]  M   ,   .   /
-```
-
-## Qwickly2: Set B, J, P, Y, comma, colon
-
-```
- Q   W  <U> [D] <P> <B> (H) [L] [Y] [,]  [   ]   \
-
-  A   S  (E) (T)  G  <F> (N) <R> [I] [O]  '   enter
-
-   Z   X   C   V  <J>  [K]  M  [:]  .   /
+   Z   X   C   V  [Q]  <B>  M  [;]  .   /
 
 Legend
     same as QWERTY
@@ -77,7 +24,7 @@ Legend
 < > other hand than QWERTY
 ```
 
-## Benchmarks
+## Benchmarks (outdated)
 
 Using https://stevep99.github.io/keyboard-layout-analyzer
 
