@@ -24,6 +24,10 @@ Legend
 < > other hand than QWERTY
 ```
 
+![Qwickly2 layout](Qwickly2-layout.png)
+
+![Qwickly2 heat map](Qwickly2-heatmap.png)
+
 ## Benchmarks
 
 Using https://stevep99.github.io/keyboard-layout-analyzer
