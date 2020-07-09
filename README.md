@@ -1,4 +1,4 @@
-# Qwickest
+# Qwicker
 
 ## QWERTY
 ```
@@ -7,6 +7,21 @@
   A   S   D   F   G   H   J   K   L   ;   '   enter
 
    Z   X   C   V   B    N   M   ,   .   /
+```
+
+## Qwickly
+```
+ Q   W  <U> [D] (F) (J) [L] [P] [Y] (;)  [   ]   \
+
+  A   S  (E) (T)  G   H  (N) (I) (O) <R>  '   enter
+
+   Z   X   C   V   B   [K]  M   ,   .   /
+
+Legend
+    same as QWERTY
+( ) same finger as QWERTY
+[ ] same hand as QWERTY
+< > other hand than QWERTY
 ```
 
 ## Qwicker
