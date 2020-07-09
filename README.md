@@ -1,4 +1,4 @@
-# FlatKeyboardLayout
+# Qwickest
 
 ## QWERTY
 ```
@@ -9,7 +9,7 @@
    Z   X   C   V   B    N   M   ,   .   /
 ```
 
-## Qwickly2
+## Qwickest
 ```
 <K>  W  <U> [D] <P> [J] (H) [L] [Y] [,]  [   ]   \
 
@@ -33,7 +33,7 @@ Legend
 Using https://stevep99.github.io/keyboard-layout-analyzer
 
 <pre><code>
-             Colemak-DH Qwickly2 Qwickly-BF Colemak   Qwickly    Niro     S.Dvorak
+             Colemak-DH Qwickest Qwickly-BF Colemak   Qwickly    Niro     S.Dvorak
 
    Alice       68.02     <b>68.94</b>*    67.81     66.61     67.20     67.28     63.71
    Common      <b>75.56</b>*    74.26     73.65     73.94     73.11     72.84     66.82
