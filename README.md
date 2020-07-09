@@ -20,11 +20,11 @@
 
 ## Qwickest
 ```
-<K>  W  <U> [D] <P> [J] (H) [L] [Y] [,]  [   ]   \
+<K>  W  <U> [D] (G) [J] (H) [L] [Y] [,]  [   ]   \
 
   A   S  (E) (T) (V) <B> (N) <R> [I] [O]  '   enter
 
-   Z   X   C  (G) [Q]  <F>  M  [;]  .   /
+   Z   X   C  <P> [Q]  (M) <F> [;]  .   /
 
 Legend
     same as QWERTY
