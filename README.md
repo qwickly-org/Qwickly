@@ -58,5 +58,5 @@ Using https://stevep99.github.io/keyboard-layout-analyzer
    Lorem       <b>58.27</b>*    56.13     57.33     56.98     57.06     56.99     57.83     51.61
    Game        36.70     <b>43.79</b>*    43.46     38.90     38.86     40.50     39.67     35.35
 </code></pre>
-**bold** name = prose (English sentences)
+**bold** name = prose (English sentences)<br/>
 **bold** score* = best
