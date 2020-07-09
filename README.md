@@ -33,7 +33,7 @@ Legend
    Z   X   C   V  <J>  <B>  M  [;]  .   /
 ```
 
-## Qwickest
+## Qwickerer
 ```
 <K>  W  <U> [D] (G) [J] (H) [L] [Y] [,]  [   ]   \
 
