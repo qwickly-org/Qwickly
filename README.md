@@ -35,9 +35,9 @@ Legend
 This layout was made as an experiment to see how good the metrics could be.<br/>
 It sacrifices some shortcut key positions and moves more keys to different fingers/hands from QWERTY for marginal gains and is not generally recommended. It you really want that last bit of performance, MTGAP is a better choice.
 
-The **Qwicker** layout is recommended for anyone wanting a Colemak-like layout with the best ergonomics/performance for english text.
+The **Qwicker** layout is recommended for everyone wanting a Colemak-like layout with the best ergonomics/performance for english text.
 
-The **[Qwickly](https://github.com/qwickly-org/Qwickly)** layout offers very good ergonomics/performance while being the easiest to learn coming from QWERTY.
+The **[Qwickly](https://github.com/qwickly-org/Qwickly)** layout offers great ergonomics/performance while being the easiest to learn coming from QWERTY.
 
 ## Benchmarks
 
