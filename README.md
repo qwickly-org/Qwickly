@@ -37,6 +37,8 @@ It sacrifices some shortcut key positions and moves more keys to different finge
 
 The **Qwicker** layout is recommended for anyone wanting a Colemak-like layout with the best ergonomics/performance for english text.
 
+The **[Qwickly](https://github.com/qwickly-org/Qwickly)** layout offers very good ergonomics/performance while being the easiest to learn coming from QWERTY.
+
 ## Benchmarks
 
 Using https://stevep99.github.io/keyboard-layout-analyzer
