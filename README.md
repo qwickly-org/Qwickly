@@ -10,7 +10,7 @@
 ```
 
 ## Qwickly (Mod B)
-![Qwickly (Mod B) layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwickly-B.png)
+![Qwickly (Mod B) layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwickly-Mod-B.png)
 
 ## Qwicker (aka KFLY)
 ![Qwicker layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwicker.png)
