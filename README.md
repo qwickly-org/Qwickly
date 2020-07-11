@@ -1,14 +1,5 @@
 # Qwicker
 
-## QWERTY
-```
- Q   W   E   R   T   Y   U   I   O   P   [   ]   \
-
-  A   S   D   F   G   H   J   K   L   ;   '   enter
-
-   Z   X   C   V   B    N   M   ,   .   /
-```
-
 ## Qwickly (Mod B)
 ![Qwickly (Mod B) layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwickly-Mod-B.png)
 
