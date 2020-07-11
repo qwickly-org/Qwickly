@@ -22,7 +22,7 @@ Due to their similarity, it is reasonable to first try the Qwickly (and its tran
 Using https://stevep99.github.io/keyboard-layout-analyzer
 
 <pre><code>
-             Qwickerer Colemak-DH Qwicker   Colemak  Qwickly-B   Niro     S.Dvorak
+             Qwickerer Colemak-DH Qwicker   Colemak  Qwickly-B   Niro    S.Dvorak
 
    <b>Alice</b>       <b>69.16</b>*    68.02     67.70     66.61     67.22     67.28     63.71
    Common      74.31     <b>75.56</b>*    73.97     73.94     72.92     72.84     66.82
