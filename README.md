@@ -24,6 +24,15 @@ Legend
 < > other hand than QWERTY
 ```
 
+## Niro (Mod B)
+```
+ Q   W  <U> [D] <P> (K) (F) [Y] [L] [,]  [   ]   \
+
+  A   S  (E) (T)  G   H  (N) (I) <R> (O)  '   enter
+
+   Z   X   C   V  <J>  <B>  M   ,   .   /
+```
+
 ## Qwicker
 ```
  Q   W  <U> [D] <P> [K] <F> [L] [Y] [,]  [   ]   \
@@ -31,6 +40,15 @@ Legend
   A   S  (E) (T)  G   H  (N) <R> [I] [O]  '   enter
 
    Z   X   C   V  <J>  <B>  M  [;]  .   /
+```
+
+## Soul (Mod ER)
+```
+ Q   W  <U> [D] <P> [K] (M) [L] [Y] [,]  [   ]   \
+
+  A   S  (E) (T)  G  <F> (N) <R> [I] [O]  '   enter
+
+   Z   X   C   V  <J>  <B> (H) [;]  .   /
 ```
 
 ## Qwickerer
