@@ -10,43 +10,14 @@
 ```
 
 ## Qwickly (Mod B)
-```
- Q   W  <U> [D] (F) (K) [L] [P] [Y] (;)  [   ]   \
-
-  A   S  (E) (T)  G   H  (N) (I) (O) <R>  '   enter
-
-   Z   X   C   V  <J>  <B>  M   ,   .   /
-
-Legend
-    same as QWERTY
-( ) same finger as QWERTY
-[ ] same hand as QWERTY
-< > other hand than QWERTY
-```
+![Qwickly (Mod B) layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwickly-B.png)
 
 ## Qwicker (aka KFLY)
-```
- Q   W  <U> [D] <P> [K] <F> [L] [Y] [,]  [   ]   \
-
-  A   S  (E) (T)  G   H  (N) <R> [I] [O]  '   enter
-
-   Z   X   C   V  <J>  <B>  M  [;]  .   /
-```
+![Qwicker layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwicker.png)
 
 ## Qwickerer
-```
- Q   W  <U> [D] (G) [J] (H) [L] [Y] [,]  [   ]   \
+![Qwickerer layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwickerer.png)
 
-  A   S  (E) (T) (V) <B> (N) <R> [I] [O]  '   enter
-
-   X  <K>  C  <P> [Z]  (M) <F> [;]  .   /
-
-Legend
-    same as QWERTY
-( ) same finger as QWERTY
-[ ] same hand as QWERTY
-< > other hand than QWERTY
-```
 This layout was made as an experiment to see how good the metrics could be only preserving home keys ASET-NRIO.<br/>
 It sacrifices some shortcut key positions and moves more keys to different fingers/hands from QWERTY for marginal gains and is not generally recommended. If you really want the best performance without any shortcut comatibility, MTGAP is a better choice.
 
