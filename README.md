@@ -33,7 +33,7 @@ Legend
    Z   X   C   V  <J>  <B>  M   ,   .   /
 ```
 
-## Qwicker
+## Qwicker (aka KFLY)
 ```
  Q   W  <U> [D] <P> [K] <F> [L] [Y] [,]  [   ]   \
 
