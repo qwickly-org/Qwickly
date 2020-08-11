@@ -6,7 +6,7 @@
 ## Qwicker (aka KFLY)
 ![Qwicker layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwicker.png)
 
-## Qwickerer
+## Qwickerer (experiment)
 ![Qwickerer layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwickerer.png)
 
 This layout was made as an experiment to see how good the metrics could be only preserving home keys ASET-NRIO. It sacrifices some shortcut key positions and moves more keys to different fingers/hands from QWERTY for marginal gains and is not generally recommended. If you really want the best performance without any shortcut comatibility, MTGAP may be a better choice.
