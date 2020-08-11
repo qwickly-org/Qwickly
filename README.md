@@ -38,7 +38,7 @@ Using https://stevep99.github.io/keyboard-layout-analyzer
    <b>Cost</b>        <b>58.38</b>*    58.12     57.84     58.11     58.57     57.85     50.78
    <b>Contract</b>    54.18     <b>57.50</b>*    53.78     57.38     54.59     53.38     47.38
    <b>Binary</b>      58.73     <b>59.61</b>*    58.31     59.05     57.73     57.55     54.23
-   Lorem       55.90     <b>58.27</b>*    57.15     57.06     57.08     57.83     51.61
+   Lorem       55.90     <b>58.27</b>*    57.33     57.06     57.08     57.83     51.61
    Game        42.87     36.70     <b>43.46</b>*    38.86     40.25     39.67     35.35
 </code></pre>
 **bold** name = prose (english sentences)<br/>
