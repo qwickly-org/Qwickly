@@ -9,8 +9,7 @@
 ## Qwickerer
 ![Qwickerer layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwickerer.png)
 
-This layout was made as an experiment to see how good the metrics could be only preserving home keys ASET-NRIO.<br/>
-It sacrifices some shortcut key positions and moves more keys to different fingers/hands from QWERTY for marginal gains and is not generally recommended. If you really want the best performance without any shortcut comatibility, MTGAP is a better choice.
+This layout was made as an experiment to see how good the metrics could be only preserving home keys ASET-NRIO. It sacrifices some shortcut key positions and moves more keys to different fingers/hands from QWERTY for marginal gains and is not generally recommended. If you really want the best performance without any shortcut comatibility, MTGAP may be a better choice.
 
 The **Qwicker** layout is recommended for everyone wanting a Colemak-like layout with the best ergonomics/performance for english text. Although Colemak (Mod DH) has better metrics than Qwicker, there is less use of the bottom row on Qwicker which means less hand movement. Thls is especially true on laptop keyboards (or other low profile/key-travel types) and is a strongly recommended choice if a fair percentage of typing is done on them.
 
