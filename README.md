@@ -1,5 +1,12 @@
 # Qwicker
 
+**TL;DR**
+- choose **Qwickly (Mod B)** as the easy to learn layout (over NIRO, Colemak-likes, or Dvorak)
+- choose **Qwicker (Mod H)** (or **Qwicker KFLY** with laptop) layout (over Colemak-DH/Colemak)
+- for the fastest layout without constraints, consider MTGAP.
+
+Qwickly and Qwicker have been designed for typing english prose. Benchmarks for word lists or other languages was not a factor.
+
 ## Qwickly (Mod B)
 ![Qwickly (Mod B) layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwickly-Mod-B.png)
 
