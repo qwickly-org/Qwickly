@@ -18,15 +18,14 @@ Qwickly and Qwicker have been designed for typing english prose. Benchmarks for 
 
 This layout merely swaps `H` and `F` on the Qwicker layout. It is better to type on with mechanical keyboards, but with more hand movement on a laptop keyboard as fingers don't strike straight down (instead splayed with a tap motion). If predominantly using a mechanical keyboard this is recommended.
 
-## Qwickerer (experiment)
-![Qwickerer layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwickerer.png)
+## Qwicker (Mod R)
+![Qwicker (Mod R) layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwicker-Mod-R.png)
 
-This layout was made as an experiment to see how good the metrics could be only preserving home keys ASET-NRIO. It sacrifices some shortcut key positions and moves more keys to different fingers/hands from QWERTY for marginal gains and is not generally recommended. If you really want the best performance without any shortcut comatibility, MTGAP may be a better choice.
+After using `Qwicker (aka KFLY)` on both a mechanical keyboard and MacBook Pro built-in keyboard for many months I was able to type quickly but the right hand still felt unsmooth typing certain words. After some experimentation settled on the 'Mod R' flavour which is effectively a 'tweaked Niro' layout.
 
-The **Qwicker** layout is recommended for everyone wanting a Colemak-like layout with the best ergonomics/performance for english text. Although Colemak (Mod DH) has better metrics than Qwicker, there is less use of the bottom row on Qwicker which means less hand movement. Thls is especially true on laptop keyboards (or other low profile/key-travel types) and is a strongly recommended choice if a fair percentage of typing is done on them.
+## Qwicker (Mod R)
 
-The **[Qwickly](https://github.com/qwickly-org/Qwickly)** layout offers great ergonomics/performance while being the easiest to learn coming from QWERTY.<br/>
-Due to their similarity, it is reasonable to first try the Qwickly (and its transitional layouts) for a while then after getting a sense of the improvements (and possibly any noticeable drawbacks) choose the one to learn to type best on.
+Not shown but of course swapping the `` and `` keys of the 'Mod R' layout would result in a 'Mod HR' suitable for mechanical keyboards more than laptops.
 
 ## Benchmarks
 
