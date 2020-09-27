@@ -1,9 +1,9 @@
 # Qwicker
 
 **TL;DR**
-- choose **Qwickly (Mod B)** as the easy to learn layout (over NIRO, Colemak-likes, or Dvorak)
-- choose **Qwicker (Mod H)** (or **Qwicker KFLY** with laptop) layout as easier to learn than Colemak
-- for the fastest layout without constraints, consider MTGAP.
+- choose **Qwickly (Mod B)** as the easiest to learn layout from QWERTY (over NIRO/Colemak-likes or Dvorak)
+- choose **Qwicker (Mod R)** for mixed mechanical and laptop keyboard use as easier to learn than Colemak and faster for prose
+- choose **Qwicker (Mod HR)** for mechanical keyboard use as easier to learn than Colemak and faster for prose
 
 Qwickly and Qwicker have been designed for typing english prose. Benchmarks for word lists or other languages was not a factor.
 
