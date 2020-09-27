@@ -23,7 +23,7 @@ This layout merely swaps `H` and `F` on the Qwicker layout. It is better to type
 
 After using `Qwicker (aka KFLY)` on both a mechanical keyboard and MacBook Pro built-in keyboard for many months I was able to type quickly but the right hand still felt unsmooth typing certain words. After some experimentation settled on the 'Mod R' flavour which has more 'inward' rolling key sequences and less 'outward' rolling ones.
 
-## Qwicker (Mod R)
+## Qwicker (Mod HR)
 
 Not shown but of course swapping the `H` and `F` keys of the 'Mod R' layout would result in a 'Mod HR' suitable for mechanical keyboards more than laptops.
 
