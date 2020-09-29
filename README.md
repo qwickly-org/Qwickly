@@ -32,7 +32,7 @@ Not shown but of course swapping the `H` and `F` keys of the 'Mod R' layout woul
 Using https://stevep99.github.io/keyboard-layout-analyzer
 
 <pre><code>
-            Qwicker-RH Colemak-DH Qwicker   Colemak  Qwickly-B   Niro    S.Dvorak
+            Qwicker-HR Colemak-DH Qwicker   Colemak  Qwickly-B   Niro    S.Dvorak
 
    <b>Alice</b>       <b>68.23*</b>    68.02     67.70     66.61     67.22     67.28     63.71
    Common      73.83     <b>75.56</b>*    73.97     73.94     72.92     72.84     66.82
