@@ -11,7 +11,7 @@ Qwickly and Qwicker have been designed for typing English prose. Benchmarks for 
 ![Qwickly (Mod B) layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwickly-Mod-B.png)
 
 ## Qwicker (aka KFLY)
-![Qwicker layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwicker.png)
+The first draft of the Qwicker layouts had `N` `R` `I` `O` ([image](https://github.com/qwickly-org/Qwicker/blob/master/Qwicker.png)) on the right hand home keys. It was a false start or failed experiment that led to the Mod-R and Mod-H layouts.
 
 ## Qwicker (Mod R)
 ![Qwicker (Mod R) layout](https://github.com/qwickly-org/Qwicker/blob/master/Qwicker-Mod-R.png)
