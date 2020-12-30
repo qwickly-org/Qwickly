@@ -28,7 +28,7 @@ This layout merely rotate-swaps `H`, `M`, and `B` on the Qwicker-R layout. It is
 Using https://stevep99.github.io/keyboard-layout-analyzer
 
 <pre><code>
-            Qwicker-H  Colemak-DH Qwicker-R Colemak  Qwickly-B   Niro    S.Dvorak
+             Qwicker-H Colemak-DH Qwicker-R Colemak  Qwickly-B   Niro    S.Dvorak
 
    <b>Alice</b>       <b>68.12*</b>    68.02     67.48     66.61     67.22     67.28     63.71
    Common      73.66     <b>75.56*</b>    73.54     73.94     72.92     72.84     66.82
