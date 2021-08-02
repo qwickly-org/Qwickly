@@ -36,8 +36,7 @@ K  X  J  C  V  B  M  ;  .  /  shift
 ## Benchmarks
 
 <pre><code>
-                      Colemak-DH Qwickly;KZ Colemak  QwickStep4  Niro    S.Dvorak
-                         00.00     00.00     00.00     00.00     00.00     00.00
+               Colemak-DH Qwickly;KZ Colemak  QwickStep4  Niro    S.Dvorak
 
    <b>Alice</b>          <b>69.06</b>*    69.40     67.31     68.27     67.55     63.59
    Common         <b>76.05</b>*    72.18     74.50     71.75     70.75     64.48
