@@ -62,5 +62,5 @@ K  X  J  C  V  B  M  ,  .  /  shift
    Game           44.21      <b>46.03</b>*    45.24     43.99     45.11     44.82     41.64
 </code></pre>
 
-**bold name** = prose (English sentences)
+**bold name** = prose (English sentences)<br/>
 **bold score*** = best score
