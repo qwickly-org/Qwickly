@@ -8,7 +8,7 @@
 QwickStep and Qwickly have been designed for typing English prose. Efficiency for word lists or other languages was not a factor.
 
 ## QwickStep 4
-![QwickStep 4 layout](https://github.com/qwickly-org/QwickSteps/blob/master/QwickStep4.png)
+![QwickStep 4 layout](https://github.com/qwickly-org/Qwickly/blob/master/QwickStep4.png)
 
 ## Qwickly
 ![Qwickly layout](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly.png)
@@ -41,11 +41,7 @@ K  X  J  C  V  B  M  ,  .  /  shift
 This layout is based on Qwickly-KZ with the letters on right middle (YI) and ring fingers (LR) swapped.<br/>
 It produces better benchmarks but personal experience over many weeks did not achieve the smoothness of typing on the Qwickly-KZ layout. Your mileage may vary and this layout is included to see if it works better for you. Do not let the benchmarks convince you one way or another, try out each one for long enough to form an opinion for your specific situation. Benchmarks should only guide your choices--ultimately your real-world comfort and speed matters most. For English prose the Qwickly-NRIO and Qwickly-KZ have the top stats so don't get caught up in small/hypothetical differences.
 
-```
-Q  W  U  D  P  Z  H  L  Y  ;  [  ]  \
- A  S  E  T  G  F  N  R  I  O  ' enter
-  K  X  J  C  V  B  M  ,  .  /  shift
-```
+![Qwickly-NRIO layout](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly-NRIO.png)
 
 ## Benchmarks
 
