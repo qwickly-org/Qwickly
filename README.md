@@ -1,14 +1,12 @@
 # Qwickly
 
 **TL;DR**
-- choose **QwickStep 4** as the easiest to learn layout from QWERTY (compared to Colemak or other QW/ZXCV-preserving layouts)
+- choose **Qwickly** as the easier to learn layout from QWERTY (compared to Colemak or other QW/ZXCV-preserving layouts)
 - choose **Qwickly-KZ** for least finger movement (or the matrix version for ortholinear keyboard hardware)
 - choose **Qwickly-matrix** for ortholinear keyboard hardware (or Qwickly-KZ-matrix)
+- learn the Qwickly layout fast using the [4 QwickStep layouts](https://github.com/qwickly-org/QwickSteps)
 
-QwickStep and Qwickly have been designed for typing English prose. Efficiency for word lists or other languages was not a factor.
-
-## QwickStep 4
-![QwickStep 4 layout](https://github.com/qwickly-org/Qwickly/blob/master/QwickStep4.png)
+Qwickly and the QwickSteps layouts have been designed for typing English prose. Efficiency for arbitrary word lists or other languages is not a goal.
 
 ## Qwickly
 ![Qwickly layout](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly.png)
