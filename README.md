@@ -34,15 +34,25 @@ A  S  E  T  G  F  N  I  R  O  ' enter
 K  X  J  C  V  B  M  ,  .  /  shift
 ```
 
-## Qwickly-NRIO (aka NRIO)
+## Qwickly-NRIO-KZ (aka NRIO-KZ)
 
 This layout is based on Qwickly-KZ with the letters on right middle (YI) and ring fingers (LR) swapped.<br/>
 It produces better benchmarks but personal experience over many weeks did not achieve the smoothness of typing on the Qwickly-KZ layout. Your mileage may vary and this layout is included to see if it works better for you. Do not let the benchmarks convince you one way or another, try out each one for long enough to form an opinion for your specific situation. Benchmarks should only guide your choices--ultimately your real-world comfort and speed matters most. For English prose the Qwickly-NRIO and Qwickly-KZ have the top stats so don't get caught up in small/hypothetical differences.
 
 ![Qwickly-NRIO layout](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly-NRIO.png)
 
+## Qwickly-NRIO (aka NRIO)
+
+There's also the NRIO layout with Z in QWERTY position.
+```
+Q  W  U  D  P  K  H  Y  L  ;  [  ]  \
+ A  S  E  T  G  F  N  I  R  O  ' enter
+  Z  X  C  V  J  B  M  ,  .  /  shift
+```
+
 ## Benchmarks
 
+*Stats show below as Qwickly-NR are for Qwickly-NRIO-KZ*
 *The matrix version scores are not listed as they generally score uncomparably higher.*
 
 <pre><code>
