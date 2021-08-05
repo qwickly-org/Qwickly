@@ -69,7 +69,7 @@ Q  W  U  D  P  K  H  Y  L  ;  [  ]  \
 
 ## Benchmarks
 
-*Stats show below as Qwickly-NR are for Qwickly-NRIO-KZ*
+*Stats show below as Qwickly-NR are for Qwickly-NRIO-KZ*<br/>
 *The matrix version scores are not listed as they generally score uncomparably higher.*
 
 <pre><code>
