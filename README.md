@@ -8,6 +8,24 @@
 
 Qwickly and the QwickSteps layouts have been designed for typing English prose. Efficiency for arbitrary word lists or other languages is not a goal.
 
+## Installation
+
+#### Mac OS
+
+- Open (double-click) the `Qwickly.dmg` file which will show its contents with two icons.
+- Open (double-click) the icon named `Keyboard Installer` which will show a window with two large 'people' icons.
+- Drag the `Qwickly.bundle` icon from the first window to the second where it says `Keyboard layout to install: Drag keyboard layout here to install`
+- Open (double-click) the large 'person' icon named `Install for current user (recommended)`, the window will close.
+- Open the `Keyboard` item in `System Preferences`
+- Click the `Input Sources` tab/section
+- Press the `+` button on the bottom-left to 'add' a layout
+- With the `English` language selected in the left list, select the layout(s) you wish to install. Multi-select holding down shift key while clicking.
+- Click the `Add` button, the window will close.
+- Select a newly added layout on the left list to use it now.
+- Enabling the `[x] Show Input menu in the menu bar` can be useful to show which layout is in effect and easily switch between them.
+
+That's all. Seems like a lot of steps but it's really quite easy to do--though perhaps not very intuitive.
+
 ## Qwickly
 ![Qwickly layout](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly.png)
 
