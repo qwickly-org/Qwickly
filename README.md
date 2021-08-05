@@ -25,6 +25,7 @@ Qwickly and the QwickSteps layouts have been designed for typing English prose. 
 - Click the `Add` button, the window will close.
 - Select a newly added layout on the left list to use it now.
 - Enabling the `[x] Show Input menu in the menu bar` can be useful to show which layout is in effect and easily switch between them.
+- Any open Qwickly windows can be closed, and the `Qwickly` mounted device shown in a Finder window's `Locations` also ejected.
 
 That's all. Seems like a lot of steps but it's really quite easy to do--though perhaps not very intuitive.
 
