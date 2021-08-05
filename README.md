@@ -1,5 +1,7 @@
 # Qwickly
 
+![Qwickly layout](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly.png)
+
 **TL;DR**
 - choose **Qwickly** as the easier to learn layout from QWERTY (compared to Colemak or other QW/ZXCV-preserving layouts)
 - choose **Qwickly-KZ** for least finger movement (or the matrix version for ortholinear keyboard hardware)
@@ -25,9 +27,6 @@ Qwickly and the QwickSteps layouts have been designed for typing English prose. 
 - Enabling the `[x] Show Input menu in the menu bar` can be useful to show which layout is in effect and easily switch between them.
 
 That's all. Seems like a lot of steps but it's really quite easy to do--though perhaps not very intuitive.
-
-## Qwickly
-![Qwickly layout](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly.png)
 
 ## Qwickly (pinky comma)
 ![Qwickly (pinky comma) layout](https://github.com/qwickly-org/Qwickly/blob/master/Qwickly-comma.png)
