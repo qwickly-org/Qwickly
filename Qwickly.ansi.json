@@ -1,5 +1,5 @@
 {
-    "label": "Qwickly-KZ",
+    "label": "Qwickly",
     "fingerStart": {
         "1": 29,
         "2": 30,
@@ -157,8 +157,8 @@
             "shiftAltGr": -1
         },
         {
-            "primary": 122,
-            "shift": 90,
+            "primary": 107,
+            "shift": 75,
             "finger": 7,
             "id": 20,
             "altGr": -1,
@@ -310,8 +310,8 @@
             "id": 41
         },
         {
-            "primary": 107,
-            "shift": 75,
+            "primary": 122,
+            "shift": 90,
             "finger": 1,
             "id": 42,
             "altGr": -1,

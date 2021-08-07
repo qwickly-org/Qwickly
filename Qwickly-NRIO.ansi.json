@@ -16,7 +16,9 @@
     },
     "keyboardType": "standard",
     "author": "Keith Kim",
+    "authorUrl": "",
     "moreInfoUrl": "https://github.com/qwickly-org/Qwickly",
+    "moreInfoText": "github.com/qwickly-org/Qwickly",
     "keys": [
         {
             "primary": 96,
