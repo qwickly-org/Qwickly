@@ -15,8 +15,8 @@
         "false": -1
     },
     "keyboardType": "standard",
-    "moreInfoUrl": "http://kennetchaz.github.io/symmetric-typing/niro.html",
-    "moreInfoText": "Symmetric Typing Project - Niro",
+    "author": "Keith Kim",
+    "moreInfoUrl": "https://github.com/qwickly-org/Qwickly",
     "keys": [
         {
             "primary": 96,
