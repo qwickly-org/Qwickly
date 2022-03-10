@@ -63,8 +63,8 @@ It produces better benchmarks but personal experience over many weeks did not ac
 
 There's also the NRIO layout with Z in QWERTY position.
 ```
-Q  W  U  D  P  K  H  Y  L  ;  [  ]  \
- A  S  E  T  G  F  N  I  R  O  ' enter
+Q  W  U  D  P  K  H  L  Y  ;  [  ]  \
+ A  S  E  T  G  F  N  R  I  O  ' enter
   Z  X  C  V  J  B  M  ,  .  /  shift
 ```
 
